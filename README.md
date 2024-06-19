@@ -76,7 +76,7 @@ Your Bucket is created successfully
 
 Here is the link to the deployed website on AWS s3
 
-![AWS s3 Deployed URL](http://perpetual-aws-bucket.s3-website-us-west-2.amazonaws.com/)
+[AWS s3 Deployed URL](http://perpetual-aws-bucket.s3-website-us-west-2.amazonaws.com/)
 
 ## _Thank you for reading_
 
