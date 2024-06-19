@@ -78,5 +78,7 @@ Here is the link to the deployed website on AWS s3
 
 [AWS s3 Deployed URL](http://perpetual-aws-bucket.s3-website-us-west-2.amazonaws.com/)
 
+![Website Screenshot](./images/web18.png)
+
 ## _Thank you for reading_
 
